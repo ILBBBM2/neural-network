@@ -17,7 +17,7 @@ $$ |  $$ \$$$$$$$ $$ |     $$ |      $$ | $$ | $$ \$$$$$$$ \$$$$$$$ \$$$$$$$\   
                                                                                                                          
 ```
 
-written in python with numpy and opencv. no external dependencies beyond standard libraries.
+written in python with numpy. no external dependencies beyond standard libraries. OpenCV used for image resizing and such
 
 requirements for training:
 - python 3.6+
